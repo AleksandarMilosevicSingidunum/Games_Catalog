@@ -57,8 +57,3 @@ Contributions are welcome! If you find any issues or want to enhance the applica
 
 This project is licensed under the [MIT License](LICENSE).
 
----
-
-Replace `LICENSE` with the actual name of your license file if it's different. You can place this README file in the root directory of your GitHub repository for the frontend code.
-
-Remember to update the information in the README file with accurate details about your project. This template provides a starting point, and you can customize it to fit your project's specific needs.
